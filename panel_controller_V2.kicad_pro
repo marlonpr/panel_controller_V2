@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.27,
-          "width": 2.54
+          "drill": 3.2,
+          "height": 3.2,
+          "width": 3.2
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -642,7 +642,7 @@
       {
         "filename": "panel_controller_V2.kicad_sch",
         "name": "panel_controller_V2",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "40ae0937-5662-4f30-a33f-1def2dc32a3a"
       }
     ],
     "used_designators": "",
@@ -651,7 +651,7 @@
   "sheets": [
     [
       "40ae0937-5662-4f30-a33f-1def2dc32a3a",
-      "Root"
+      "panel_controller_V2"
     ]
   ],
   "text_variables": {},
