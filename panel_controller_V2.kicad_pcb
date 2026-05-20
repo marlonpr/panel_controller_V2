@@ -1164,7 +1164,7 @@
 			(uuid "e806ae4a-9e31-446d-a17b-a44f08646d54")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/Marlon/Documents/KiCad/9.0/footprints/SBH11_PBPC_D08_ST_BK/SBH11-_ _ _C-D08-ST-_ _.STEP"
+		(model "C:/Users/Marlon/OneDrive/Documents/KiCad/10.0/footprints/SBH11_PBPC_D08_ST_BK/SBH11-_ _ _C-D08-ST-_ _.STEP"
 			(offset
 				(xyz -7 9.5 -4)
 			)
@@ -3062,7 +3062,7 @@
 			(uuid "f5409eeb-97d7-401c-9860-bb0883564016")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/Marlon/Documents/KiCad/9.0/footprints/282837-2/282837-2.step"
+		(model "C:/Users/Marlon/OneDrive/Documents/KiCad/10.0/footprints/282837-2/282837-2.step"
 			(offset
 				(xyz 2.5 -4 3)
 			)
@@ -3824,7 +3824,7 @@
 			(uuid "1b8aa4df-3b82-40a4-bd6a-77af8d2b853f")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/Marlon/Documents/KiCad/9.0/footprints/RA-02_LORA/lora-ra-02-ai-thinker.STEP"
+		(model "C:/Users/Marlon/OneDrive/Documents/KiCad/10.0/footprints/RA-02_LORA/lora-ra-02-ai-thinker.STEP"
 			(offset
 				(xyz 9 2.5 -0.5)
 			)
@@ -4305,7 +4305,7 @@
 			(uuid "7648aa05-9703-4007-8280-f12a81fa7f03")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/Marlon/Documents/KiCad/9.0/footprints/RTC/HW-84 v7.step"
+		(model "C:/Users/Marlon/OneDrive/Documents/KiCad/10.0/footprints/RTC/HW-84 v7.step"
 			(offset
 				(xyz 12 -45.5 0.5)
 			)
@@ -4764,7 +4764,7 @@
 			(uuid "f2f26e98-860c-45e7-9b22-43b32a0c1326")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/Marlon/Documents/KiCad/9.0/footprints/SSW_115_01_F_S/SSW-115-01-F-S.stp"
+		(model "C:/Users/Marlon/OneDrive/Documents/KiCad/10.0/footprints/SSW_115_01_F_S/SSW-115-01-F-S.stp"
 			(offset
 				(xyz 18 0 0)
 			)
@@ -6229,7 +6229,7 @@
 			(uuid "7ef905df-5a13-4ade-b64d-fe7a6705a71b")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/Marlon/Documents/KiCad/9.0/footprints/282837-3/282837-3.step"
+		(model "C:/Users/Marlon/OneDrive/Documents/KiCad/10.0/footprints/282837-3/282837-3.step"
 			(offset
 				(xyz 5 -4 3.5)
 			)
@@ -8027,7 +8027,7 @@
 			(uuid "c2b8a999-9988-4115-a2cc-b41e7cab6af2")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/Marlon/Documents/KiCad/9.0/footprints/282837-4/282837-4.step"
+		(model "C:/Users/Marlon/OneDrive/Documents/KiCad/10.0/footprints/282837-4/282837-4.step"
 			(offset
 				(xyz 7.5 -4 3)
 			)
@@ -8486,7 +8486,7 @@
 			(uuid "adf8fda5-763d-42d5-a0c7-24b1015655c1")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/Marlon/Documents/KiCad/9.0/footprints/SSW_115_01_F_S/SSW-115-01-F-S.stp"
+		(model "C:/Users/Marlon/OneDrive/Documents/KiCad/10.0/footprints/SSW_115_01_F_S/SSW-115-01-F-S.stp"
 			(offset
 				(xyz 17.5 0 0)
 			)
@@ -9540,7 +9540,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "C:/Users/Marlon/Documents/KiCad/9.0/footprints/ESP32-DEVKIT-V1/SSW-115-01-F-S.stp"
+		(model "C:/Users/Marlon/OneDrive/Documents/KiCad/10.0/footprints/ESP32-DEVKIT-V1/SSW-115-01-F-S.stp"
 			(offset
 				(xyz 12.5 -2.5 -0.5)
 			)
@@ -9551,7 +9551,7 @@
 				(xyz -90 -0 -90)
 			)
 		)
-		(model "C:/Users/Marlon/Documents/KiCad/9.0/footprints/ESP32-DEVKIT-V1/SSW-115-01-F-S.stp"
+		(model "C:/Users/Marlon/OneDrive/Documents/KiCad/10.0/footprints/ESP32-DEVKIT-V1/SSW-115-01-F-S.stp"
 			(offset
 				(xyz -12.5 -2 -0.5)
 			)
@@ -9562,7 +9562,7 @@
 				(xyz -90 -0 -90)
 			)
 		)
-		(model "C:/Users/Marlon/Documents/KiCad/9.0/footprints/ESP32-DEVKIT-V1/ESP32-DEVKIT-V1.step"
+		(model "C:/Users/Marlon/OneDrive/Documents/KiCad/10.0/footprints/ESP32-DEVKIT-V1/ESP32-DEVKIT-V1.step"
 			(offset
 				(xyz 0 0 8)
 			)
